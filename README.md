@@ -20,7 +20,7 @@
 
 ### 📫 Connect with me
 - Discord: `VyJepan`
-- Email: `zefanyalau@email.com`
+- Email: `zefanyalau@gmail.com`
 
 ---
 
