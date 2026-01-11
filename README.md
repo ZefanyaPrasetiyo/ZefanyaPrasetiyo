@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 💻 Web & Mobile Developer 
+- 💻 FulllStack Developer 
 ---
 
 ### 🔤 Languages
@@ -24,12 +24,13 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-02569B?style=for-the-badge&logo=flask&logoColor=white)
 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=radixui&logoColor=white)
 ![Flowbite](https://img.shields.io/badge/Flowbite-38BDF8?style=for-the-badge&logo=flowbite&logoColor=white)
 ![HeroUI](https://img.shields.io/badge/Hero_UI-111827?style=for-the-badge&logo=vercel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/Daisy_UI-111827?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
