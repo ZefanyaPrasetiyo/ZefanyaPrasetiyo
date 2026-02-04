@@ -1,10 +1,14 @@
 <h1 align="center">Hi, I'm Zefanya Prasetiyo 👋</h1>
 
-<p align="left">
- <img src="https://pokestop.io/img/pokemon/psyduck-256x256.png"/>
+<p align="center">
+  <img
+    src="https://pokestop.io/img/pokemon/psyduck-256x256.png"
+    width="120"
+    alt="Psyduck"
+  />
 </p>
 
-<p align="right">
+<p align="center">
   <i>kadang kidding tapi okelah</i>
 </p>
 
@@ -20,7 +24,6 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" />
 </p>
 
 ---
@@ -30,9 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" />
 </p>
 
 ---
