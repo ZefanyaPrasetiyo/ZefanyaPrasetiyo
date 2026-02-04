@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Zefanya Prasetiyo 👋</h1>
 
-<p align="center">
+<p align="left">
+ <img src="https://pokestop.io/img/pokemon/psyduck-256x256.png"/>
+</p>
+
+<p align="right">
   <i>kadang kidding tapi okelah</i>
 </p>
 
