@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <i>kadang kidding tapi okelah</i>
+  <i>kadang kidding tapi huahua</i>
 </p>
 
 ---
@@ -32,6 +32,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" />
  <img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" alt="Expo" width="40"/>
 </p>
 
@@ -40,7 +41,6 @@
 ## 🗄️ Databases
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" />
 </p>
 
@@ -58,12 +58,8 @@
 
 ## 🚀 Upcoming Expertise
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="45" />
 </p>
 
 ---
-
-## 📫 Connect With Me
-- 💬 Discord: **VyJepan**
-- 📧 Email: **zefanyaprasetiyo29@gmail.com**
