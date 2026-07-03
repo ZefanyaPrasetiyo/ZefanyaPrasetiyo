@@ -1,6 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Zefanya+Prasetiyo;Fullstack+Developer;Linux+Enthusiast" />
-</h1>
+```ascii
+   ███████╗ ███████╗ ███████╗ █████╗ ███╗   ██╗██╗   ██╗ █████╗ 
+   ╚══███╔╝ ██╔════╝ ██╔════╝██╔══██╗████╗  ██║╚██╗ ██╔╝██╔══██╗
+     ███╔╝  █████╗   █████╗  ███████║██╔██╗ ██║ ╚████╔╝ ███████║
+    ███╔╝   ██╔══╝   ██╔══╝  ██╔══██║██║╚██╗██║  ╚██╔╝  ██╔══██║
+   ███████╗ ███████╗ ██║     ██║  ██║██║ ╚████║   ██║   ██║  ██║
+   ╚══════╝ ╚══════╝ ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
 
 <div align="center">
 
@@ -19,19 +23,19 @@
 ```text
 Name      : Zefanya Prasetiyo
 Role      : Fullstack Developer
-Location  : 🌍 Earth
+Location  : 🏙️ Jakarta
 OS        : 🐧 Ubuntu
 Editor    : VS Code
 Coffee    : Required ☕
 ```
 
 - 💻 Passionate about building scalable web applications
-- 🌱 Currently learning **Laravel**, **Go**, and **System Design**
+- 🌱 Currently learning **Laravel**, **FLutter**, **Python**, and **System Design**
 - 🐧 Linux enthusiast
 - 🎯 2026 Goals
   - Flutter
   - Python
-  - Rust
+  - Gp;ang
 
 ---
 
@@ -40,7 +44,7 @@ Coffee    : Required ☕
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,php,go" />
+<img src="https://skillicons.dev/icons?i=js,ts,php" />
 </p>
 
 ## Frameworks
@@ -83,21 +87,6 @@ Coffee    : Required ☕
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zefanyaprasetiyo&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zefanyaprasetiyo/zefanyaprasetiyo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zefanyaprasetiyo/zefanyaprasetiyo/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/zefanyaprasetiyo/zefanyaprasetiyo/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</p>
-
----
 
 # 🌐 Connect With Me
 
