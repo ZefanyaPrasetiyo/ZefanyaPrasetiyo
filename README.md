@@ -41,7 +41,7 @@ Coffee    : Required ☕
 - 🎯 2026 Goals
   - Flutter
   - Python
-  - Gp;ang
+  - Golang
 
 ---
 
