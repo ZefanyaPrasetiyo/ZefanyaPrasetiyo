@@ -1,3 +1,5 @@
+<div align="center">
+
 ```text
 ███████╗███████╗███████╗ █████╗ ███╗   ██╗██╗   ██╗ █████╗
 ╚══███╔╝██╔════╝██╔════╝██╔══██╗████╗  ██║╚██╗ ██╔╝██╔══██╗
@@ -50,7 +52,7 @@ Coffee    : Required ☕
 ## Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,expo,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,react-native,tailwind" />
 </p>
 
 ## Database
