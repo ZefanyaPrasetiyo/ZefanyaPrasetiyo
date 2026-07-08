@@ -36,11 +36,11 @@ Coffee    : Required ☕
 ```
 
 - 💻 Passionate about building scalable web applications
-- 🌱 Currently learning **Python**
+- 🌱 Currently learning **PHP**
 - 🐧 Linux enthusiast
 - 🎯 2026 Goals
   - Flutter
-  - Python
+  - Python ✅
   - Golang
 
 ---
@@ -50,7 +50,7 @@ Coffee    : Required ☕
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,php" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,py" />
 </p>
 
 ## Frameworks
