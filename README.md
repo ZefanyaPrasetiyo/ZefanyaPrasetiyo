@@ -56,7 +56,7 @@ Coffee    : Required ☕
 ## Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,react-native,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,django,tailwind" />
 </p>
 
 ## Database
