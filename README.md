@@ -16,7 +16,7 @@
 
 <img src="https://pokestop.io/img/pokemon/psyduck-256x256.png" width="130"/>
 
-> **"With great power comes great responsibility"**
+> **"~BACA, KETIK, LARI~"**
 
 ![](https://komarev.com/ghpvc/?username=zefanyaprasetiyo&label=Profile+Views&color=0e75b6&style=flat)
 
