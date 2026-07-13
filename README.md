@@ -42,6 +42,7 @@ Coffee    : Required ☕
   - Flutter
   - Python ✅
   - Golang
+  - Zustand
 
 ---
 
