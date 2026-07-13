@@ -36,7 +36,7 @@ Coffee    : Required ☕
 ```
 
 - 💻 Passionate about building scalable web applications
-- 🌱 Currently learning **DJANGO**
+- 🌱 Currently learning **NEST**
 - 🐧 Linux enthusiast
 - 🎯 2026 Goals
   - Flutter
