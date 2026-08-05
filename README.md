@@ -30,7 +30,7 @@
 Name      : Zefanya Prasetiyo
 Role      : Fullstack Developer
 Location  : 🏙️ Jakarta
-OS        : 🐧 Ubuntu
+OS        : 🐧 Fedora
 Editor    : VS Code
 Coffee    : Required ☕
 ```
@@ -69,7 +69,7 @@ Coffee    : Required ☕
 ## DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux,ubuntu,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,fedora,vscode,postman" />
 </p>
 
 ## Currently Exploring
