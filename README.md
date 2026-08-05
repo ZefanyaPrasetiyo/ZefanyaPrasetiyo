@@ -69,7 +69,7 @@ Coffee    : Required ☕
 ## DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,fedora,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,Fedora,vscode,postman" />
 </p>
 
 ## Currently Exploring
