@@ -63,7 +63,7 @@ Coffee    : Required ☕
 ## Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,prisma" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,firebase,prisma" />
 </p>
 
 ## DevOps & Tools
