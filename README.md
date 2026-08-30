@@ -36,14 +36,13 @@ Coffee    : Required ☕
 ```
 
 - 💻 Passionate about building scalable web applications
-- 🌱 Currently learning **NEST**
+- 🌱 Currently learning **GO**
 - 🐧 Linux enthusiast
 - 🎯 2026 Goals
   - Flutter
   - Python ✅
-  - Golang
-  - Zustand
-
+  - Golang  ✅
+    
 ---
 
 # 🚀 Tech Stack
@@ -63,7 +62,7 @@ Coffee    : Required ☕
 ## Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,firebase,prisma" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,prisma" />
 </p>
 
 ## DevOps & Tools
