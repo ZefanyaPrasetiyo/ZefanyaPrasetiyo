@@ -1,17 +1,4 @@
-<div align="center">
 
-<pre>
-
-███████╗███████╗███████╗ █████╗ ███╗   ██╗██╗   ██╗ █████╗
-╚══███╔╝██╔════╝██╔════╝██╔══██╗████╗  ██║╚██╗ ██╔╝██╔══██╗
-  ███╔╝ █████╗  █████╗  ███████║██╔██╗ ██║ ╚████╔╝ ███████║
- ███╔╝  ██╔══╝  ██╔══╝  ██╔══██║██║╚██╗██║  ╚██╔╝  ██╔══██║
-███████╗███████╗██║     ██║  ██║██║ ╚████║   ██║   ██║  ██║
-╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
-
-</pre>
-
-</div>
 <div align="center">
 
 <img src="https://pokestop.io/img/pokemon/psyduck-256x256.png" width="130"/>
@@ -68,7 +55,7 @@ Coffee    : Required ☕
 ## DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,Fedora,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,fedora,vscode,postman" />
 </p>
 
 ## Currently Exploring
