@@ -22,7 +22,6 @@
 > `$ pwd` -> **Jakarta, Indonesia**
 
 * 💻 Fullstack Web Development
-* 🐹 Learning & building with Go
 * 🐧 **Linux enthusiast (Fedora FTW!)**
 * ⚙️ Backend & system exploration
 * 🐳 Containerized development
