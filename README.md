@@ -1,110 +1,39 @@
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=zefanyaprasetiyo&label=profile+views&color=grey&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=zefanyaprasetiyo&label=views&color=pink&style=flat-square"/>
+
+# Hi, I'm Zefanya 👋
+
+**Fullstack Developer** · Jakarta, Indonesia 🇮🇩
+*Anime enjoyer × Linux (Fedora) user* 🐧🌸
 
 </div>
 
 ---
 
-## `~/neofetch`
+### 🌸 About me
 
-```text
-███████╗    OS: Fedora Linux 40 (Workstation)
-╚══███╔╝    Kernel: 6.8.9-300.fc40.x86_64
-  ███╔╝     Shell: bash 5.2.26
- ███╔╝      DE: GNOME 46
-███████╗    Terminal: GNOME Terminal
-╚══════╝    CPU: AMD Ryzen 7 (16) @ 3.80GHz
-            GPU: NVIDIA GeForce RTX 3060
-            Memory: 8192MiB / 16384MiB
-```
-
-> `$ whoami` -> **Fullstack Developer**
-> `$ pwd` -> **Jakarta, Indonesia**
-
-* 💻 Fullstack Web Development
-* 🐧 **Linux enthusiast (Fedora FTW!)**
-* ⚙️ Backend & system exploration
-* 🐳 Containerized development
+- 💻 Fullstack Web Developer
+- 🐧 Linux enthusiast — **Fedora FTW!**
+- ⚙️ Backend & system exploration
+- 🐳 Containerized development
+- 📺 Coding while watching anime
 
 ---
 
-## `~/stack`
-
-**Languages**
+### 🛠️ Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=go,js,ts,php,py"/>
-</p>
-
-**Backend**
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fiber,laravel,django"/>
-</p>
-
-**Frontend**
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
-</p>
-
-**Database**
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,prisma"/>
-</p>
-
-**DevOps & Linux**
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,fedora,git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=go,js,ts,php,py,nodejs,express,laravel,django,react,nextjs,tailwind,postgres,mysql,docker,nginx,linux,fedora,git,github,vscode"/>
 </p>
 
 ---
 
-## `~/workspace`
-
-```text
-z@fedora:~/workspace$ tree -L 2
-.
-├── backend
-│   ├── go
-│   ├── fiber
-│   └── docker
-├── frontend
-│   ├── react
-│   └── nextjs
-├── devops
-│   ├── nginx
-│   └── fedora
-└── README.md
-
-3 directories, 6 files
-```
-
----
-
-## `~/currently`
-
-```text
-[████████████████████] Go
-[██████████████████░░] Backend
-[████████████████░░░░] Docker
-[██████████████░░░░░░] Linux (Fedora)
-[████████████░░░░░░░░] DevOps
-```
-
----
-
-## `~/github`
+### 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zefanyaprasetiyo&show_icons=true&theme=github_dark&hide_border=true&hide_title=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zefanyaprasetiyo&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zefanyaprasetiyo&theme=github-dark&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=zefanyaprasetiyo&show_icons=true&theme=radical&hide_border=true&hide_title=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zefanyaprasetiyo&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -112,20 +41,12 @@ z@fedora:~/workspace$ tree -L 2
 <div align="center">
 
 ```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   $ whoami                                  │
-│   z                                         │
-│                                             │
-│   $ cat /etc/os-release | grep PRETTY_NAME  │
-│   PRETTY_NAME="Fedora Linux 40 (Workstation)"│
-│                                             │
-│   $ echo "Keep calm and code on."           │
-│   Keep calm and code on.                    │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+$ whoami
+z — Fullstack Dev
 
-**[ GitHub ] · [ LinkedIn ] · [ Instagram ]**
+$ neofetch
+OS: Fedora Linux 40
+Shell: bash
+DE: GNOME 46
 
-</div>
+$ echo "Keep calm and code on."
