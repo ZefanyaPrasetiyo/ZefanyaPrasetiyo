@@ -1,14 +1,5 @@
 <div align="center">
 
-```text
-███████╗███████╗███████╗ █████╗ ███╗   ██╗██╗   ██╗ █████╗
-╚══███╔╝██╔════╝██╔════╝██╔══██╗████╗  ██║╚██╗ ██╔╝██╔══██╗
-  ███╔╝ █████╗  █████╗  ███████║██╔██╗ ██║ ╚████╔╝ ███████║
- ███╔╝  ██╔══╝  ██╔══╝  ██╔══██║██║╚██╗██║  ╚██╔╝  ██╔══██║
-███████╗███████╗███████╗ ██║  ██║██║ ╚████║   ██║   ██║  ██║
-╚══════╝╚══════╝╚══════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
-```
-
 ### `BACA • KETIK • LARI`
 
 <img src="https://komarev.com/ghpvc/?username=zefanyaprasetiyo&label=profile+views&color=grey&style=flat-square"/>
@@ -17,23 +8,25 @@
 
 ---
 
-## `~/about`
+## `~/neofetch`
 
 ```text
-Name       : Zefanya Prasetiyo
-Role       : Fullstack Developer
-Location   : Jakarta, Indonesia
-OS         : Fedora Linux
-Workspace  : Fedora Workspaces
-Editor     : VS Code
-Terminal   : Linux
+███████╗    OS: Fedora Linux 40 (Workstation)
+╚══███╔╝    Kernel: 6.8.9-300.fc40.x86_64
+  ███╔╝     Shell: bash 5.2.26
+ ███╔╝      DE: GNOME 46
+███████╗    Terminal: GNOME Terminal
+╚══════╝    CPU: AMD Ryzen 7 (16) @ 3.80GHz
+            GPU: NVIDIA GeForce RTX 3060
+            Memory: 8192MiB / 16384MiB
 ```
 
-> Building things, breaking things, fixing things.
+> `$ whoami` -> **Fullstack Developer**
+> `$ pwd` -> **Jakarta, Indonesia**
 
 * 💻 Fullstack Web Development
 * 🐹 Learning & building with Go
-* 🐧 Linux enthusiast
+* 🐧 **Linux enthusiast (Fedora FTW!)**
 * ⚙️ Backend & system exploration
 * 🐳 Containerized development
 
@@ -76,21 +69,21 @@ Terminal   : Linux
 ## `~/workspace`
 
 ```text
-        ┌──────────────────────────────┐
-        │          FEDORA               │
-        │                              │
-        │   ┌──────┐  ┌──────┐        │
-        │   │  GO  │  │ FIBER│        │
-        │   └──┬───┘  └──┬───┘        │
-        │      │          │            │
-        │   ┌──▼──────────▼──┐         │
-        │   │     DOCKER     │         │
-        │   └────────┬───────┘         │
-        │            │                 │
-        │       ┌────▼────┐            │
-        │       │  NGINX  │            │
-        │       └─────────┘            │
-        └──────────────────────────────┘
+z@fedora:~/workspace$ tree -L 2
+.
+├── backend
+│   ├── go
+│   ├── fiber
+│   └── docker
+├── frontend
+│   ├── react
+│   └── nextjs
+├── devops
+│   ├── nginx
+│   └── fedora
+└── README.md
+
+3 directories, 6 files
 ```
 
 ---
@@ -101,7 +94,7 @@ Terminal   : Linux
 [████████████████████] Go
 [██████████████████░░] Backend
 [████████████████░░░░] Docker
-[██████████████░░░░░░] Linux
+[██████████████░░░░░░] Linux (Fedora)
 [████████████░░░░░░░░] DevOps
 ```
 
@@ -126,7 +119,10 @@ Terminal   : Linux
 ┌─────────────────────────────────────────────┐
 │                                             │
 │   $ whoami                                  │
-│   zefanya                                   │
+│   z                                         │
+│                                             │
+│   $ cat /etc/os-release | grep PRETTY_NAME  │
+│   PRETTY_NAME="Fedora Linux 40 (Workstation)"│
 │                                             │
 │   $ echo "Keep calm and code on."           │
 │   Keep calm and code on.                    │
