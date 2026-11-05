@@ -68,22 +68,6 @@ cccccccc;.:odl:.;cccccccccccccc:,.        Status     : Learning in public 🚀
 | 🔁 **Transition** | From Fullstack Developer to DevOps, I know how apps are built, so I can run them better |
 | 🏠 **Homelab** | Minikube + Docker on Fedora for hands-on practice |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zefanyaprasetiyo&show_icons=true&theme=tokyonight&hide_border=true&title_color=51A2DA&icon_color=51A2DA&bg_color=0d1117"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zefanyaprasetiyo&layout=compact&theme=tokyonight&hide_border=true&title_color=51A2DA&bg_color=0d1117"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=zefanyaprasetiyo&theme=tokyonight&hide_border=true&ring=51A2DA&fire=51A2DA&currStreakLabel=51A2DA&background=0d1117" height="150"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zefanyaprasetiyo&bg_color=0d1117&color=51A2DA&line=294172&point=ffffff&area=true&hide_border=true" width="95%"/>
-</p>
 
 ---
 
