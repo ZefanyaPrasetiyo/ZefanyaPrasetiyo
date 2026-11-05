@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:294172,100:51A2DA&height=190&section=header&text=Zefanya%20Lau%20Prasetiyo&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Junior%20DevOps%20Engineer%20%7C%20Fullstack%20Developer%20Alumni&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:294172,100:51A2DA&height=190&section=header&text=Zefanya%20Lau%20Prasetiyo&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Junior%20DevOps%20Engineer%20%7C%20Fullstack%20Developer%20&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://github.com/zefanyaprasetiyo">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=51A2DA&center=true&vCenter=true&width=640&lines=Kubernetes+%7C+Docker+%7C+Nginx+%7C+Redis;Monitoring+with+Prometheus+%26+Grafana;Infrastructure+as+YAML%2C+Powered+by+Fedora+%F0%9F%90%A7;Building+reliable+systems%2C+one+pipeline+at+a+time" alt="Typing SVG"/>
