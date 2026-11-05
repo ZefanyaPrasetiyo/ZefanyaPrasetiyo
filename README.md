@@ -1,52 +1,108 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=zefanyaprasetiyo&label=views&color=pink&style=flat-square"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:294172,100:51A2DA&height=190&section=header&text=Zefanya%20Lau%20Prasetiyo&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Junior%20DevOps%20Engineer%20%7C%20Fullstack%20Developer%20Alumni&descAlignY=58&descSize=16" width="100%"/>
 
-# Hi, I'm Zefanya 👋
+<a href="https://github.com/zefanyaprasetiyo">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=51A2DA&center=true&vCenter=true&width=640&lines=Kubernetes+%7C+Docker+%7C+Nginx+%7C+Redis;Monitoring+with+Prometheus+%26+Grafana;Infrastructure+as+YAML%2C+Powered+by+Fedora+%F0%9F%90%A7;Building+reliable+systems%2C+one+pipeline+at+a+time" alt="Typing SVG"/>
+</a>
 
-**Fullstack Developer** · Jakarta, Indonesia 🇮🇩
-*Anime enjoyer × Linux (Fedora) user* 🐧🌸
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=zefanyaprasetiyo&label=Profile+views&color=294172&style=flat-square"/>
+<img src="https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to-DevOps%20Roles-51A2DA?style=flat-square"/>
 
 </div>
 
 ---
 
-### 🌸 About me
+## 🖥️ `$ fastfetch`
 
-- 💻 Fullstack Web Developer
-- 🐧 Linux enthusiast — **Fedora FTW!**
-- ⚙️ Backend & system exploration
-- 🐳 Containerized development
-- 📺 Coding while watching anime
+```text
+        .',;::::;,'.                      zefanya@fedora
+    .';:cccccccccccc:;,.                  ──────────────────────────────
+ .;cccccccccccccccccccccc;.               Name       : Zefanya Lau Prasetiyo
+.:cccccccccccccccccccccccccc:.            Role       : Junior DevOps Engineer
+.;ccccccccccccc;.:dddl:.;ccccccc;.        Background : Fullstack Dev (Alumni)
+.:ccccccccccccc;OWMKOOXMWd;ccccccc:.      Location   : Jakarta, Indonesia
+.:ccccccccccccc;KMMc;cc;xMMc:ccccccc:.    OS         : Fedora Linux (GNOME)
+,cccccccccccccc;MMM.;cc;;WW::cccccccc,    Shell      : bash
+:cccccccccccccc;MMM.;cccccccccccccccc:    Orchestr.  : Kubernetes · Minikube
+:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:    Container  : Docker
+cccccc:0MMKxdd:;MMMkddc.;cccccccccccc;    Web/Cache  : Nginx · Redis
+ccccc:XM0';cccc;MMM.;cccccccccccccccc'    Monitoring : Prometheus · Grafana
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     Config     : YAML
+ccccc;0MNc.ccc.xMMd:ccccccccccccccc;      Languages  : Go · JS/TS · PHP · Python
+cccccc;dNMWXXXWM0::ccccccccccccc:,        Hobby      : Anime × Linux 🌸
+cccccccc;.:odl:.;cccccccccccccc:,.        Status     : Learning in public 🚀
+:cccccccccccccccccccccccccccc:'.          ──────────────────────────────
+.:cccccccccccccccccccccc:;,..             $ echo "Automate everything."
+  '::cccccccccccccc::;,.                  
+```
 
 ---
 
-### 🛠️ Stack
+## 🧰 Tech Stack
 
+### ☸️ DevOps & Infrastructure
 <p>
-<img src="https://skillicons.dev/icons?i=go,js,ts,php,py,nodejs,express,laravel,django,react,nextjs,tailwind,postgres,mysql,docker,nginx,linux,fedora,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,nginx,redis,prometheus,grafana,fedora,linux,bash,yaml,git,github"/>
+<img src="https://img.shields.io/badge/Minikube-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="48"/>
+</p>
+
+### 💻 Fullstack Development
+<p>
+<img src="https://skillicons.dev/icons?i=go,js,ts,php,py,nodejs,express,laravel,django,react,nextjs,tailwind,postgres,mysql"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 What I'm Doing
+
+| | |
+|---|---|
+| 🔭 **Focus** | Container orchestration, observability, and deployment automation |
+| 🌱 **Learning** | Kubernetes in depth, monitoring & alerting, CI/CD workflows |
+| 🔁 **Transition** | From Fullstack Developer to DevOps, I know how apps are built, so I can run them better |
+| 🏠 **Homelab** | Minikube + Docker on Fedora for hands-on practice |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=zefanyaprasetiyo&show_icons=true&theme=radical&hide_border=true&hide_title=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zefanyaprasetiyo&layout=compact&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zefanyaprasetiyo&show_icons=true&theme=tokyonight&hide_border=true&title_color=51A2DA&icon_color=51A2DA&bg_color=0d1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zefanyaprasetiyo&layout=compact&theme=tokyonight&hide_border=true&title_color=51A2DA&bg_color=0d1117"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=zefanyaprasetiyo&theme=tokyonight&hide_border=true&ring=51A2DA&fire=51A2DA&currStreakLabel=51A2DA&background=0d1117" height="150"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zefanyaprasetiyo&bg_color=0d1117&color=51A2DA&line=294172&point=ffffff&area=true&hide_border=true" width="95%"/>
 </p>
 
 ---
+
+## 🤝 Let's Connect
+
+<p align="center">
+<a href="https://github.com/zefanyaprasetiyo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/USERNAME-KAMU"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:EMAIL-KAMU@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 <div align="center">
 
-```text
-$ whoami
-z — Fullstack Dev
+```bash
+$ kubectl get coffee --all-namespaces
+NAMESPACE   NAME        STATUS
+default     my-coffee   Running ☕
+```
 
-$ neofetch
-OS: Fedora Linux 40
-Shell: bash
-DE: GNOME 46
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:51A2DA,100:294172&height=100&section=footer" width="100%"/>
 
-$ echo "Keep calm and code on."
+</div>
