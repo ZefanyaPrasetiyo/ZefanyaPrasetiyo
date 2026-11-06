@@ -25,9 +25,9 @@
     .';:cccccccccccc:;,.                  ──────────────────────────────
  .;cccccccccccccccccccccc;.               Name       : Zefanya Lau Prasetiyo
 .:cccccccccccccccccccccccccc:.            Role       : Junior DevOps Engineer
-.;ccccccccccccc;.:dddl:.;ccccccc;.        Background : Fullstack Dev (Alumni)
+.;ccccccccccccc;.:dddl:.;ccccccc;.        Background : Fullstack Dev (ex)
 .:ccccccccccccc;OWMKOOXMWd;ccccccc:.      Location   : Jakarta, Indonesia
-.:ccccccccccccc;KMMc;cc;xMMc:ccccccc:.    OS         : Fedora Linux (GNOME)
+.:ccccccccccccc;KMMc;cc;xMMc:ccccccc:.    OS         : Fedora Linux (niri)
 ,cccccccccccccc;MMM.;cc;;WW::cccccccc,    Shell      : bash
 :cccccccccccccc;MMM.;cccccccccccccccc:    Orchestr.  : Kubernetes · Minikube
 :ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:    Container  : Docker
@@ -35,7 +35,7 @@ cccccc:0MMKxdd:;MMMkddc.;cccccccccccc;    Web/Cache  : Nginx · Redis
 ccccc:XM0';cccc;MMM.;cccccccccccccccc'    Monitoring : Prometheus · Grafana
 ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     Config     : YAML
 ccccc;0MNc.ccc.xMMd:ccccccccccccccc;      Languages  : Go · JS/TS · PHP · Python
-cccccc;dNMWXXXWM0::ccccccccccccc:,        Hobby      : Anime × Linux 🌸
+cccccc;dNMWXXXWM0::ccccccccccccc:,        Hobby      : Run × Linux 🌸
 cccccccc;.:odl:.;cccccccccccccc:,.        Status     : Learning in public 🚀
 :cccccccccccccccccccccccccccc:'.          ──────────────────────────────
 .:cccccccccccccccccccccc:;,..             $ echo "Automate everything."
