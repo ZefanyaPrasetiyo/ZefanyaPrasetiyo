@@ -48,7 +48,7 @@ cccccccc;.:odl:.;cccccccccccccc:,.        Status     : Learning in public 🚀
 
 ### ☸️ DevOps & Infrastructure
 <p>
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,nginx,redis,prometheus,grafana,fedora,linux,bash,yaml,git,github"/>
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,nginx,redis,prometheus,grafana,fedora,linux,bash,yaml,git,github,argocd,terraform"/>
 <img src="https://img.shields.io/badge/Minikube-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="48"/>
 </p>
 
