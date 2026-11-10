@@ -56,7 +56,7 @@ cccccccc;.:odl:.;cccccccccccccc:,.        Status     : Learning in public 🚀
 
 ### 💻 Fullstack Development
 <p>
-<img src="https://skillicons.dev/icons?i=go,js,ts,php,py,nodejs,express,laravel,django,react,nextjs,tailwind,postgres,mysql"/>
+<img src="https://skillicons.dev/icons?i=go,js,ts,php,py,nodejs,express,laravel,django,react,nextjs,tailwind,postgres,mysql,fiber"/>
 </p>
 
 ---
