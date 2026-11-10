@@ -48,9 +48,11 @@ cccccccc;.:odl:.;cccccccccccccc:,.        Status     : Learning in public 🚀
 
 ### ☸️ DevOps & Infrastructure
 <p>
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,nginx,redis,prometheus,grafana,fedora,linux,bash,yaml,git,github,terraform"/>
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,nginx,redis,prometheus,grafana,linux,bash,git,github,terraform"/>
 <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" height="48"/>
 <img src="https://img.shields.io/badge/Minikube-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" height="48"/>
 </p>
 
 ### 💻 Fullstack Development
